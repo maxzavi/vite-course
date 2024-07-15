@@ -3,13 +3,13 @@
 In parent folder, create projecto Vite + React:
 
 ```cmd
-npm create vite@latest demo1
+npm create vite@latest demo2
 ```
 
 Change to folder demo1 and execute:
 
 ```cmd
-cd demo1
+cd demo2
 npm i
 npm run dev
 ```
